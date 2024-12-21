@@ -1,5 +1,3 @@
-import "./App.css";
-
 function App() {
   return (
     <div className="border border-green-500 p-4 m-10">
